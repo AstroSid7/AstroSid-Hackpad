@@ -22,25 +22,30 @@ This is a custom mechanical macropad designed for the Hackpad project. It featur
 
 &#x20;Overall Design
 
-!\[Overall Design](Case_Assembly.png)
+!\[Overall Design]
+<img width="1065" height="633" alt="Case_Assembly" src="https://github.com/user-attachments/assets/45b31df1-cf16-4ea5-a6c6-7f0ee78f219e" />
 
 
 
 \### Schematic
 
-!\[Schematic](Schematic.png)
+!\[Schematic]
+<img width="1297" height="751" alt="Schematic" src="https://github.com/user-attachments/assets/be2ebf15-6c75-491d-b351-8b59f69938ff" />
 
 
 
 \### PCB Layout
 
-!\[PCB Layout]( PCB_Full_Layout.png , PCB_3_Layout(Front).png , PC_ 3d_Layout(Back).png )
-
+!\[PCB Layout]
+<img width="667" height="805" alt="PCB_Full_Layout" src="https://github.com/user-attachments/assets/4dd78b68-41bd-471d-ba30-6a5f259c094a" />
+<img width="735" height="892" alt="PCB_3d_Layout(Front)" src="https://github.com/user-attachments/assets/0e0a5de3-356f-49c5-b8ab-fb900d1de23b" />
+<img width="697" height="881" alt="PC_ 3d_Layout(Back)" src="https://github.com/user-attachments/assets/84a72a92-a5d5-4447-aa1e-9910de0d557b" />
 
 
 \### Case Assembly
 
-!\[Case Assembly](Case_Assembly.png)
+!\[Case Assembly]
+<img width="1065" height="633" alt="Case_Assembly" src="https://github.com/user-attachments/assets/2a97a064-19b4-4bae-8624-b0e99f963db7" />
 
 
 
